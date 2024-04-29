@@ -1,9 +1,9 @@
 # IdentityGuard
 
 IdentityGuard is a decentralized identity management system built on blockchain technology, providing users with full control over their personal information while ensuring privacy and security. The project leverages Zero-Knowledge (ZK) technology powered by Noir by Aztech for enhanced privacy features. Smart contracts are deployed and verified(on scrollscan) on the Scroll Sepolia testnet for testing and development.
-Here are the contract addresses:
-Zk_contract : 0x604A2dbb539da644d4264866a10A24deA79e91d4
-DecentralizedIdentity: 0xE2F9eDFb8D9Ef8fb5f81df1460A3858043815BC1
+Here are the contract addresses:.
+Zk_contract : 0x604A2dbb539da644d4264866a10A24deA79e91d4.
+DecentralizedIdentity: 0xE2F9eDFb8D9Ef8fb5f81df1460A3858043815BC1.
 
 ## Features
 
